@@ -1,5 +1,5 @@
 # Changes I made
-
+Fixed the top of the page (header with "Horiseon" and nav links) by changing two div's to header and nav.
 
 # Link to Deployed Application
 
