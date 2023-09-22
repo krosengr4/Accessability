@@ -1,6 +1,10 @@
 # Changes I made
 Fixed the top of the page (header with "Horiseon" and nav links) by changing two div's to header and nav.
 
+Found better elements to use insted of div's in the html. Such as header, nav, section, article, aside, and footer.
+
+
+
 # Link to Deployed Application
 
 # Link to the Starter Code
