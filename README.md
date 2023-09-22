@@ -5,6 +5,8 @@
 
 - Made the HTML easier to follow by spacing out and making sure each element started on the correct vertical line.
 
+- Inserted comments of what I changed.
+
 
 
 # Link to Deployed Application
