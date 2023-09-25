@@ -9,7 +9,7 @@
 
 - Gave each image an alt attribute.
 
-- Inserted comments of what I changed.
+- Inserted comments on the css sections and comments of what I changed.
 
 
 
