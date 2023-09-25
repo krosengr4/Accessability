@@ -5,6 +5,10 @@
 
 - Made the HTML easier to follow by spacing out and making sure each element started on the correct vertical line.
 
+- Got the nav links to work by inserting id on the articles.
+
+- Gave each image an alt attribute.
+
 - Inserted comments of what I changed.
 
 
