@@ -7,7 +7,7 @@
 
 - Got the nav links to work by inserting id on the articles.
 
-- Gave each image an alt attribute.
+- Gave each image an alt attribute. 
 
 - Inserted comments on the css sections and comments of what I changed.
 
