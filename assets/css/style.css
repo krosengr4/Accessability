@@ -3,23 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
+/* Adds background of white to entire body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Adds padding, font, background color and text color to the header  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Sets display of h1 as inline block and makes font bigger */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Makes "seo" in "Horiseon" a slightly different shade of white */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -43,16 +43,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Changes font color to white for all the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Makes the p elements font to 16px */
 p {
     font-size: 16px;
 }
-
+/* Adds background image to hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,23 +61,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Offsets the images to the left for search engine optimization and social media marketing */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Offsets the image to the right for online reputation management */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Sets width, margin, and display for content classes */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Positions aside class to the right of the content class, changes font, adds background color */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,7 +88,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Next three change the margin from the bottom of the aside elements, makes font color white */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,7 +103,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Next three positions the h3 tags from the bottom, and aligns them in the center */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -118,7 +118,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Next three deals with the images in the aside elements. Puts display as block, gives them a margin and a max width */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -136,7 +136,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Next 3 deal with the content class. Adds a margin bottom, padding, height, font, background color(blue), and color of the text(white) */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,7 +163,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Next 3 deal with the images in the content class. Gives a max height of 200px */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -175,7 +175,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Next 3 deal with the h2 elements in the content class. Adds a margin bottom and a font size */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -190,14 +190,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Styles the footer and adds new font, aligns it in the center */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* Adds a slighter bigger font size of the h4 */
+.footer h4 {
     font-size: 20px;
 }
