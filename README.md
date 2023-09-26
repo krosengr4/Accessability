@@ -14,7 +14,7 @@
 
 
 # Deployed Application
-[Click here for the Deployed Application!](https://krosengr4.github.io/Accessability/)
+[Click here for the Deployed Application!](https://krosengr4.github.io/Accessibility/)
 
 # Starter Code
 [Click here for the Starter Code!](https://github.com/coding-boot-camp/urban-octo-telegram)
