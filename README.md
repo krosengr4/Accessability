@@ -13,11 +13,11 @@
 
 
 
-# Link to Deployed Application
-[Deployed Application](https://krosengr4.github.io/Accessability/)
+# Deployed Application
+[Click here for the Deployed Application!](https://krosengr4.github.io/Accessability/)
 
-# Link to the Starter Code
-[Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram)
+# Starter Code
+[Click here for the Starter Code!](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 # Picture of Deployed app
 ![image](https://github.com/krosengr4/Accessability/assets/139993281/7c30fa3b-8519-4b11-b77f-538a1553ea8c)
